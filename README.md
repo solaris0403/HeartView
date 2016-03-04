@@ -2,7 +2,7 @@
 ### 简介
 自定义View实现变换的心形图案.
 ### 预览效果
----
+***
 ![HeartView](https://github.com/solaris0403/HeartView/blob/master/app/screenshot/heartview.gif?raw=true)  
 ### 有问题反馈
 ---
